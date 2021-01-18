@@ -1,6 +1,6 @@
 <?php
 
-namespace Sebbmyr\Teams\AdaptiveCards;
+namespace Sebbmyr\Teams\Cards;
 
 use Sebbmyr\Teams\AbstractCard as Card;
 
